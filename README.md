@@ -4,6 +4,7 @@ Atualmente sou CTO e Sócio da PackID, que é uma startup voltada ao monitoramen
 
 ## Algumas de nossas conquistas:
 🏆️ Mais de 12 prêmios nacionais e internacionais;
+
 💰 Mais de R$ 2 milhões em investimentos por fundos como Ace Startups, GV Angels e WE Ventures (Microsoft);
 
 ## Histórico na área de programação:
