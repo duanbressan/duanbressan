@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, Duan Bressan aqui 👋
 
-<!--
-**duanbressan/duanbressan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou CTO e Sócio da PackID, que é uma startup voltada ao monitoramento de temperatura e umidade em tempo real.
 
-Here are some ideas to get you started:
+## Algumas de nossas conquistas:
+🏆️ Mais de 12 prêmios nacionais e internacionais;
+💰 Mais de R$ 2 milhões em investimentos por fundos como Ace Startups, GV Angels e WE Ventures (Microsoft);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Histórico na área de programação:
+**5 Anos:** 
+Desenvolvimento de baixo nível para Micro CLP's.
+- Ladder e C
+
+**6 Anos:**
+Desenvolvimento mobile Android.
+- Java e Cotlin
+
+**2 Anos:**
+Desenvolvimento Windows Mobile e Desktop.
+- C# 
+
+**1 Ano:**
+Desenvolvimento Web Full Stack.
+- Ruby on Rails, Node.js, React.
